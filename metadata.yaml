@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9787'
     url: http://www.gutenberg.org/2009/agents/9787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25691#Joyce-Morrell-s-HarvestThe-Annals-of-Selwick-Hall
 gutenberg_issued: '2008-06-03'
 gutenberg_type: Text
 identifiers:
