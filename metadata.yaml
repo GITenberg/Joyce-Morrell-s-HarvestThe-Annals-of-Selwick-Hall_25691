@@ -1,0 +1,29 @@
+_repo: Joyce-Morrell-s-HarvestThe-Annals-of-Selwick-Hall_25691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2008-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'Joyce Morrell''s Harvest
+
+  The Annals of Selwick Hall'
+url: http://www.gutenberg.org/ebooks/25691
